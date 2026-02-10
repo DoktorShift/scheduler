@@ -17,7 +17,7 @@
   "images": [
     {
       "uri": "https://raw.githubusercontent.com/lnbits/satspot/main/static/image/scheduler_thumbnail.png",
-      "link": "/scheduler/static/video/scheduler_video.mp4"
+      "link": "https://cdn.jsdelivr.net/gh/DoktorShift/scheduler@more_pages/static/video/scheduler_video.mp4"
     },
     {
       "uri": "https://raw.githubusercontent.com/lnbits/satspot/main/static/image/1.png"
