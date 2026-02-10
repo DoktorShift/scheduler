@@ -1,0 +1,36 @@
+{
+  "id": "scheduler",
+  "version": "0.1.3",
+  "name": "Scheduler",
+  "repo": "https://github.com/lnbits/scheduler",
+  "short_description": "Generate Scheduled tasks via crontabs for lnbits",
+  "description": "",
+  "tile": "/scheduler/static/image/scheduler.png",
+  "min_lnbits_version": "1.0.0",
+  "contributors": [
+    {
+      "name": "bitkarrot",
+      "uri": "https://github.com/bitkarrot",
+      "role": "Lead Developer"
+    }
+  ],
+  "images": [
+    {
+      "uri": "https://raw.githubusercontent.com/lnbits/satspot/main/static/image/scheduler_thumbnail.png",
+      "link": "/scheduler/static/video/scheduler_video.mp4"
+    },
+    {
+      "uri": "https://raw.githubusercontent.com/lnbits/satspot/main/static/image/1.png"
+    },
+    {
+      "uri": "https://raw.githubusercontent.com/lnbits/satspot/main/static/image/2.png"
+    }
+  ],
+  "description_md": "https://raw.githubusercontent.com/lnbits/satspot/main/description.md",
+  "terms_and_conditions_md": "https://raw.githubusercontent.com/lnbits/satspot/main/toc.md",
+  "license": "MIT",
+  "paid_features": "",
+  "tags": ["Utilities", "Automation", "Admin"],
+  "donate": "",
+  "hidden": false
+}
