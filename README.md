@@ -8,14 +8,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-success?logo=open-source-initiative&logoColor=white)](./LICENSE)
 [![Built for LNbits](https://img.shields.io/badge/Built%20for-LNbits-4D4DFF?logo=lightning&logoColor=white)](https://github.com/lnbits/lnbits)
 
-# Scheduler extension
+# Scheduler extension by [Bitkarrot](https://github.com/bitkarrot)
 
 lnbits scheduler extension [previously: crontabs]
 
 IMPORTANT: 
 - **The user that runs LNBits server MUST have crontab -e permissions in order to read/write to crontab file.**
 - This extension should be limited to admin account(s).
-- min version 0.12.10
+- min version 1.0.0
+- The following file must be executable:
+
+```sh
+chmod +x run_cron_job.py
+```
 
 ## Video Demo
 
